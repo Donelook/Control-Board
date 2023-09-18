@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Control Board Caras_1\Control Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=control board-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=control board-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
