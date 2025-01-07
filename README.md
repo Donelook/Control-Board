@@ -1,6 +1,7 @@
 # Control-Board
 PCB project <br />
 The whole project is zipped inside Control BoardPrjPcb (18.09.2023 22-13-12).zip file.<br />
-![image](https://github.com/Donelook/Control-Board/assets/14218650/06b6646e-59ae-4738-aeb3-1b617486aaf8)
-![image](https://github.com/Donelook/Control-Board/assets/14218650/c3cf65ec-aafb-44dd-9699-31c21d8b3424)
+![image](https://github.com/user-attachments/assets/86fc90e9-7202-44e5-a027-a8f604cce4b5)
+![image](https://github.com/user-attachments/assets/2a4a2070-12cb-442a-b927-79c30eb38c36)
+
 
